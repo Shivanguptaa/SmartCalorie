@@ -1,1 +1,2 @@
 # SmartCalorie
+Health tracking app
